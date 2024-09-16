@@ -1,6 +1,6 @@
 # Svelte Frontend with FastAPI Backend
 
-This project is a boilerplate for starting a web application with a Svelte frontend and a FastAPI backend, containerized using Docker. It serves as a starter project with a knowledge base optimized for [**cursor**](https://cursor.com) and others IA driven IDE.
+This project is a boilerplate for starting a web application with a Svelte frontend and a FastAPI backend, containerized using Docker. It serves as a starter project with a knowledge base optimized for [**cursor**](https://cursor.com) and others AI driven IDEs.
 
 ## Project Description
 
